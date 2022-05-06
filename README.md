@@ -1,1 +1,1 @@
-# wms
+This is a Warehouse Management System for maintaining orders  and others stuffs
